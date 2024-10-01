@@ -1,0 +1,37 @@
+{
+    "Tomate": {
+        "nombre": "Tomate",
+        "precio": 12.0,
+        "stock": 400,
+        "origen": "Arg",
+        "fecha_vencimiento": "15-04-1983"
+    },
+    "Lampara": {
+        "nombre": "Lampara",
+        "precio": 50.0,
+        "stock": 40,
+        "origen": "Ese",
+        "fecha_fabricacion": "12-09-8000"
+    },
+    "Computadora": {
+        "nombre": "Computadora",
+        "precio": 1400.0,
+        "stock": 200,
+        "origen": "Japon",
+        "fecha_fabricacion": "13-04-2013"
+    },
+    "Radio": {
+        "nombre": "Radio",
+        "precio": 330.0,
+        "stock": 3000,
+        "origen": "China",
+        "fecha_fabricacion": "09-04-2010"
+    },
+    "Television": {
+        "nombre": "Television",
+        "precio": 500.0,
+        "stock": 400,
+        "origen": "Taiwan",
+        "fecha_fabricacion": "20-12-2019"
+    }
+}
